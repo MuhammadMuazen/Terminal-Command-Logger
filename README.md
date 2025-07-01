@@ -1,3 +1,3 @@
-# Terminal Commands Documenter
+# Terminal Commands Logger (TCl)
 
 In progress
