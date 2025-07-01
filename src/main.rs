@@ -1,3 +1,7 @@
+use tcl::command_handler;
+
 fn main() {
-    println!("Hello, world!");
+
+    command_handler::help_message();
+    
 }
