@@ -6,6 +6,9 @@ LDFLAGS = -lm  # cJSON may need math library on some systems
 SRC_DIR = src
 SRCS = $(wildcard $(SRC_DIR)/*.c)
 
+# Include directory
+INC_DIR = src/include
+
 # cJSON source
 CJSON_SRC = lib/cJSON/cJSON.c
 

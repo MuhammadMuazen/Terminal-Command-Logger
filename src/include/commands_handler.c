@@ -2,6 +2,7 @@
 
 
 int func() {
-
+	
+	printf("Test Include\n");
 	return 0;
 }
